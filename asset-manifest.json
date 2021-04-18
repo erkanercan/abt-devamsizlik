@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/abt-devamsizlik/static/css/main.e07aa02c.chunk.css",
-    "main.js": "/abt-devamsizlik/static/js/main.2244a1ef.chunk.js",
-    "main.js.map": "/abt-devamsizlik/static/js/main.2244a1ef.chunk.js.map",
+    "main.js": "/abt-devamsizlik/static/js/main.107fd72e.chunk.js",
+    "main.js.map": "/abt-devamsizlik/static/js/main.107fd72e.chunk.js.map",
     "runtime-main.js": "/abt-devamsizlik/static/js/runtime-main.5da18dc1.js",
     "runtime-main.js.map": "/abt-devamsizlik/static/js/runtime-main.5da18dc1.js.map",
     "static/css/2.150d169a.chunk.css": "/abt-devamsizlik/static/css/2.150d169a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.8ab7abbb.chunk.js",
     "static/css/main.e07aa02c.chunk.css",
-    "static/js/main.2244a1ef.chunk.js"
+    "static/js/main.107fd72e.chunk.js"
   ]
 }
