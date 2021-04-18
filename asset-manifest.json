@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/abt-devamsizlik/static/css/main.e07aa02c.chunk.css",
+    "main.js": "/abt-devamsizlik/static/js/main.2244a1ef.chunk.js",
+    "main.js.map": "/abt-devamsizlik/static/js/main.2244a1ef.chunk.js.map",
+    "runtime-main.js": "/abt-devamsizlik/static/js/runtime-main.5da18dc1.js",
+    "runtime-main.js.map": "/abt-devamsizlik/static/js/runtime-main.5da18dc1.js.map",
+    "static/css/2.150d169a.chunk.css": "/abt-devamsizlik/static/css/2.150d169a.chunk.css",
+    "static/js/2.8ab7abbb.chunk.js": "/abt-devamsizlik/static/js/2.8ab7abbb.chunk.js",
+    "static/js/2.8ab7abbb.chunk.js.map": "/abt-devamsizlik/static/js/2.8ab7abbb.chunk.js.map",
+    "static/js/3.0fe96705.chunk.js": "/abt-devamsizlik/static/js/3.0fe96705.chunk.js",
+    "static/js/3.0fe96705.chunk.js.map": "/abt-devamsizlik/static/js/3.0fe96705.chunk.js.map",
+    "index.html": "/abt-devamsizlik/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/abt-devamsizlik/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.e07aa02c.chunk.css.map": "/abt-devamsizlik/static/css/main.e07aa02c.chunk.css.map",
+    "static/js/2.8ab7abbb.chunk.js.LICENSE.txt": "/abt-devamsizlik/static/js/2.8ab7abbb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5da18dc1.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8ab7abbb.chunk.js",
+    "static/css/main.e07aa02c.chunk.css",
+    "static/js/main.2244a1ef.chunk.js"
+  ]
+}
