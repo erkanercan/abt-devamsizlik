@@ -39,18 +39,18 @@ function Search() {
       if (unattendedDays <= 5) {
         setMessage(
           unattendedDays +
-            " gün devamsızlığınız var.Katılım sertifikasını ödevi teslim etmese dahi alabilirsiniz. Ödevi teslim ederseniz ve devamsızlığınız 7 günü geçmezse, katılım + bitirme sertifikası alabilirsiniz.",
+            " gün devamsızlığınız var. Katılım sertifikasını ödevi teslim etmeseniz dahi alabilirsiniz. Ödevi teslim ederseniz ve devamsızlığınız 7 günü geçmezse, katılım + bitirme sertifikası alabilirsiniz.",
         );
         setAlertVariant("success");
       } else if (unattendedDays > 5 && unattendedDays <= 7) {
         setMessage(
           unattendedDays +
-            " gün devamsızlığınız var.Ödevi teslim ettiğiniz takdirde katılım sertifikası + bitirme sertifikası alabilirsiniz.",
+            " gün devamsızlığınız var. Ödevi teslim ettiğiniz takdirde katılım sertifikası + bitirme sertifikası alabilirsiniz.",
         );
         setAlertVariant("warning");
       } else if (unattendedDays > 8) {
         setMessage(
-          unattendedDays + " gün devamsızlığınız var.Ödevi teslim etseniz dahi belge alamazsınız.",
+          unattendedDays + " gün devamsızlığınız var. Ödevi teslim etseniz dahi belge alamazsınız.",
         );
         setAlertVariant("danger");
       }
