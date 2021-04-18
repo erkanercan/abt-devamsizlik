@@ -12,7 +12,7 @@ function Search() {
     const inputValue = e.target.formBasicEmail.value;
     setLoading(true);
     fetch(
-      `http://us-central1-androidbootcampturkey.cloudfunctions.net/check-attendance?email=${inputValue}`,
+      `https://us-central1-androidbootcampturkey.cloudfunctions.net/check-attendance?email=${inputValue}`,
     )
       .then((response) => response.json())
       .then((resp: any) => {
