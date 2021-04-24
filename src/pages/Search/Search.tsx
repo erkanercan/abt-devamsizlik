@@ -58,11 +58,17 @@ function Search() {
     <div>
       {message && <Alert variant={alertVariant}>{message}</Alert>}
       <Card style={{ position: "absolute" }}>
+        <p>
+          <b>
+            Son yoklamalar ile birlikte verilerinizi güncelliyoruz. Lütfen daha sonra tekrar
+            deneyin.
+          </b>
+        </p>
         <Form onSubmit={onFormSubmit}>
           <Form.Group controlId="formBasicEmail">
-            <Form.Control disabled={loading} type="search" placeholder="E-posta adresi" />
+            <Form.Control disabled type="search" placeholder="E-posta adresi" />
           </Form.Group>
-          <Button disabled={loading} type="submit" variant="primary" size="lg" block>
+          <Button disabled type="submit" variant="primary" size="lg" block>
             {loading ? (
               <div>
                 <Spinner as="span" animation="border" role="status" aria-hidden="true" />{" "}
