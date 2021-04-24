@@ -37,7 +37,7 @@ function Search() {
                 " gün devamsızlığınız var. Ödevi teslim ettiğiniz takdirde katılım sertifikası + bitirme sertifikası alabilirsiniz.",
             );
             setAlertVariant("warning");
-          } else if (unattendedDays > 8) {
+          } else if (unattendedDays >= 8) {
             setMessage(
               unattendedDays +
                 " gün devamsızlığınız var. Ödevi teslim etseniz dahi belge alamazsınız.",
